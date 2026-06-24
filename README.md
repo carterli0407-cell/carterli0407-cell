@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">👋 Hi, I'm Carter Li</h1>
+<h3 align="center">Senior Software Engineer | Open-Source Contributor</h3>
+
+
 ### 🚀 About Me
 
 * 🔭 I’m currently working on **cloud-native storage systems and open-source Kubernetes platforms**, with a focus on SUSE Longhorn, distributed block storage, CRDs, admission webhooks, scheduling, and E2E testing.
